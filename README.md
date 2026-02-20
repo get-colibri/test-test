@@ -1,4 +1,4 @@
 # test-test
 
-ich ändere was in der Anderung der readme für commmit
-änderun von dingne
+ich ändere was in dder Anderung der readme für commmit
+ändyerun von dingne
